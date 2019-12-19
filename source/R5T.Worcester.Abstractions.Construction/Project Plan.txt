@@ -1,0 +1,4 @@
+R5T.Worcester.Abstractions.Construction - A construction console-app for the library R5T.Worcester.Abstractions.
+
+Goals
+
